@@ -1,4 +1,4 @@
-baseURL = 'https://simon.keat.es/s3nk4s-hugo'
+baseURL = 'https://simon.keat.es/'
 languageCode = 'en-us'
 title = 'simon.keat.es'
 theme = "sk-simple"

@@ -7,6 +7,8 @@ description: "A quick demo of setting up a modern Hugo blog with a custom theme.
 summary: "In this post, we demonstrate how to set up a Hugo-based blog using a custom theme that leverages Tailwind CSS for a modern look. We configured the theme to display hero images for both the site and individual posts, and set up a grid layout for the front page. Images are organized in the `assets/images` folder for easy management."
 ---
 
+> Note: this post is mostly copilot generated based on the interation to create the theme and site. which is entirely copilot generated
+
 In this post, we demonstrate how to set up a Hugo-based blog using a custom theme that leverages Tailwind CSS for a modern look. We configured the theme to display hero images for both the site and individual posts, and set up a grid layout for the front page. Images are organized in the `assets/images` folder for easy management.
 ## Recent Updates
 
@@ -44,3 +46,8 @@ Today, several improvements were made to the Hugo blog project:
 - **.gitignore:** The repository now ignores build output, cache, editor files, and WSL Zone.Identifier files.
 
 These changes make the blog visually appealing, easy to navigate, and maintain a minimal aesthetic. More updates coming soon!
+
+## References
+https://robinvanderknaap.dev/blog/building-robinvanderknaap-dev/
+
+https://gohugo.io/host-and-deploy/host-on-github-pages/

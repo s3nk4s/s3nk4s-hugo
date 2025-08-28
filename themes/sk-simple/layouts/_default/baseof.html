@@ -10,9 +10,9 @@
     <header>
         <nav style="margin-bottom: 1rem;">
           <ul style="display: flex; gap: 1.5rem; list-style: none; padding: 0; margin: 0; justify-content: center;">
-            <li><a href="/">Home</a></li>
-              <li><a href="/about/">About</a></li>
-            <li><a href="/index.xml">RSS</a></li>
+            <li><a href="{{ "/" | relURL }}">Home</a></li>
+            <li><a href="{{ "/about/" | relURL }}">About</a></li>
+            <li><a href="{{ "/index.xml" | relURL }}">RSS</a></li>
           </ul>
         </nav>
         <h1>{{ .Site.Title }}</h1>
