@@ -1,0 +1,85 @@
+/* simple.css v2.0.0 - https://simplecss.org/ */
+@import url('https://cdn.jsdelivr.net/npm/simpledotcss@2.0.0/simple.min.css');
+
+/* Custom theme overrides can go here */
+.hero-image {
+  width: 100%;
+  max-width: 800px;
+  height: auto;
+  display: block;
+  margin: 0 auto 1rem auto;
+  border-radius: 0.5rem;
+}
+
+/* Modern, lite, uncluttered blog look */
+body {
+  background: #f8f9fa;
+}
+
+header, footer {
+  background: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+  padding: 1.5rem 0.5rem;
+}
+
+nav ul {
+  background: none;
+}
+
+nav a {
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  transition: background 0.2s;
+}
+nav a:hover {
+  background: #e3eafc;
+}
+
+section {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+section h2 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* Two-column grid for posts */
+.posts-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+  gap: 4rem;
+  align-items: stretch;
+}
+
+article {
+  background: #fff;
+  border-radius: 0.75rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.04);
+  margin-bottom: 2rem;
+  padding: 2rem;
+  transition: box-shadow 0.2s;
+}
+article:hover {
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+}
+
+article h3 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+}
+
+article p {
+  color: #444;
+  font-size: 1.05rem;
+}

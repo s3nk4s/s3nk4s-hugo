@@ -1,0 +1,5 @@
+name = "sk-simple"
+description = "A minimal Hugo theme based on simple.css."
+author = "simon"
+license = "MIT"
+min_version = "0.41.0"
