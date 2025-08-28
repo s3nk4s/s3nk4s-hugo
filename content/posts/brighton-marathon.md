@@ -18,9 +18,6 @@ summary: "..."
 - Website: [https://www.brightonmarathonweekend.co.uk/events/brighton-marathon](https://www.brightonmarathonweekend.co.uk/events/brighton-marathon/)
 - Strava activity: [https://www.strava.com/activities/1510472582](https://www.strava.com/activities/1510472582)
 
-<br>
-<br>
-
 ### Goals
 
 | Goal |                                             Description                                            | Completed? |
@@ -87,5 +84,6 @@ I set out to achieve a sub-four hour time, and trained to meet this goal, but wi
 
 This post was generated using [the new race reportr](https://martellaj.github.io/race-reportr/), a tool built by [/u/BBQLays](https://www.reddit.com/u/bbqlays) for making organized, easy-to-read, and beautiful race reports.
 
-
-> Photo by me. <br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Photo by me.  
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

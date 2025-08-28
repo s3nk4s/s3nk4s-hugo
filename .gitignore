@@ -39,4 +39,4 @@ hugo_stats.json
 /themes/*/resources/
 
 # WSL/Windows metadata files
-Zone.Identifier
+*Zone.Identifier

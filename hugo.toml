@@ -3,6 +3,6 @@ languageCode = 'en-us'
 title = 'simon.keat.es'
 theme = "sk-simple"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
+#[caches]
+#  [caches.images]
+#    dir = ':cacheDir/images'

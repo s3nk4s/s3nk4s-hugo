@@ -44,5 +44,5 @@ The coming year will bring new and increasingly complex challenges when it comes
 
 Download the [2020 Thales Data Threat Report-Global Edition](https://cpl.thalesgroup.com/data-threat-report) for more key findings.
 
-> Photo by <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Scott Graham</a> on <a href="https://unsplash.com/s/photos/report?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+> Photo by [Scott Graham](https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/report?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
